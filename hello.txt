@@ -11,3 +11,4 @@ update by develop
 2nd  update by remote
 3rd  update by remote
 update by local
+update by recorvery
